@@ -20,3 +20,10 @@ To set up the environment and run the project, you need to install the dependenc
 - scikit-image
 - OpenCV
 - Matplotlib
+
+### Install dependencies
+
+You can install the required packages by running:
+
+```bash
+pip install -r requirements.txt
